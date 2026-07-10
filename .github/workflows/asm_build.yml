@@ -1,4 +1,4 @@
-Name: Build Android Code Studio
+name: Build Android Code Studio
 
 on:
   workflow_dispatch:
